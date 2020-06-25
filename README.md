@@ -1,6 +1,6 @@
 Events Planner 
 
-*Aplicatia permite inregistrarea/autentificare unui utilizator
+*Aplicatia permite inregistrarea/autentificarea unui utilizator
 *Orice utilizator poate sa: 
 -vizualizeze lista evenimentelor in ordine cronologica
 -sa creeze un eveniment daca nu exista deja unul la data respectiva
