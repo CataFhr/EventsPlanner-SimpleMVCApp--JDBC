@@ -1,6 +1,6 @@
 Events Planner 
 
-Tehnologii si tool-uri folosite:
+Principalele tehnologii si tool-uri folosite:
 -Java
 -Maven
 -JDBC
