@@ -1,5 +1,12 @@
 Events Planner 
 
+Tehnologii si tool-uri folosite:
+-Java
+-Maven
+-JDBC
+-Java Swing
+-MySQL
+
 *Aplicatia permite inregistrarea/autentificarea unui utilizator
 *Orice utilizator poate sa: 
 -vizualizeze lista evenimentelor in ordine cronologica
